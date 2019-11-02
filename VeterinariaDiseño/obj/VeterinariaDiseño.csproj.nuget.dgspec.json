@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grisell\\Documents\\VeterinariaDiseño\\VeterinariaDiseño.csproj": {}
+    "C:\\Users\\Grisell\\Documents\\MiRepositorio\\PROG1-2019-2\\VeterinariaDiseño\\VeterinariaDiseño.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grisell\\Documents\\VeterinariaDiseño\\VeterinariaDiseño.csproj": {
+    "C:\\Users\\Grisell\\Documents\\MiRepositorio\\PROG1-2019-2\\VeterinariaDiseño\\VeterinariaDiseño.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grisell\\Documents\\VeterinariaDiseño\\VeterinariaDiseño.csproj",
+        "projectUniqueName": "C:\\Users\\Grisell\\Documents\\MiRepositorio\\PROG1-2019-2\\VeterinariaDiseño\\VeterinariaDiseño.csproj",
         "projectName": "VeterinariaDiseño",
-        "projectPath": "C:\\Users\\Grisell\\Documents\\VeterinariaDiseño\\VeterinariaDiseño.csproj",
+        "projectPath": "C:\\Users\\Grisell\\Documents\\MiRepositorio\\PROG1-2019-2\\VeterinariaDiseño\\VeterinariaDiseño.csproj",
         "packagesPath": "C:\\Users\\Grisell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grisell\\Documents\\VeterinariaDiseño\\obj\\",
+        "outputPath": "C:\\Users\\Grisell\\Documents\\MiRepositorio\\PROG1-2019-2\\VeterinariaDiseño\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
